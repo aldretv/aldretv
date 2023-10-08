@@ -1,0 +1,3 @@
+- Hi, I’m @aldretv
+- I’m interested in coding and website design.
+- I’m currently learning HTML, CSS and JavaScript
